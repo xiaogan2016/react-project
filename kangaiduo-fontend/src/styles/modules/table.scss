@@ -1,0 +1,36 @@
+//list
+.add-and-search{
+    width: 100%;
+    height: 60px;
+    .ant-input-search{
+        float: right;
+    }
+}
+
+.ant-select-enabled{
+    width: 120px !important;
+}
+
+
+.avatar-uploader,
+.avatar-uploader-trigger,
+.avatar {
+  width: 60px;
+  height: 60px;
+}
+.avatar-uploader {
+  display: block;
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.avatar-uploader-trigger {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 28px;
+  color: #999;
+}
+
+.ant-modal{
+    top:20px !important;
+}
